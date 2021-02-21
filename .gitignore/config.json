@@ -1,0 +1,23 @@
+{
+
+    "login": {
+
+        "token": "NjU2NDU1NTc0NTYwNTcxMzkz.Xfi55Q.dXnsK0YzekGtUyNNB8RuMZendSw"
+
+    },
+    "bot": {
+        "owner": "566604458675404810",
+        "dev": [
+            "<@566604458675404810>"
+
+        ],
+
+
+        "clientid": "656455574560571393",
+         "version": "V1",
+         "support": "https://discord.gg/n5PM5tRF",
+         "image": "https://thumbs.gfycat.com/AggravatingComposedEsok-size_restricted.gif",
+         "fhouther" : "Loxy Bot"
+
+    }
+}
